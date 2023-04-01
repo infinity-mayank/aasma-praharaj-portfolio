@@ -5,7 +5,7 @@ const onReactOutClick = () => {
 }
 
 export const Home = () => (
-  <div className="flex flex-col items-center justify-center p-4 h-screen">
+  <div className="flex flex-col items-center justify-center p-4 h-screen bg-home-background bg-no-repeat bg-cover">
     <div className="text-[#836705] font-medium text-5xl">Good things take time. Great things take a little longer</div>
     <div className="pt-4 text-base font-normal">The secret of getting ahead is getting started - Mark Twain :)</div>
     <div className="pt-12">
