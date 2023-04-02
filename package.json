@@ -1,7 +1,7 @@
 {
   "name": "aasma-praharaj-portfolio",
   "version": "0.1.0",
-  "homepage": "https://infinity-mayank.github.io/aasma-praharaj-portfolio",
+  "homepage": "https://infinity-mayank.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
